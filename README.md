@@ -21,6 +21,13 @@ The dataset used for this project consists of information related to hospital st
 ### Age Analysis:
 8. How does the age of the patient influence the length of stay?
 
+## Methods:
+* Utilized Python for comprehensive data cleaning and transformation tasks to ensure the dataset was well-prepared for analysis.
+* Employed NumPy and Pandas Libraries to write complex functions, making data manipulation and transformation processes more efficient.
+* Wrote custom Python functions to transform and standardize the data, streamlining data processing and ensuring consistency.
+* Used aggregation and grouping to make calculations, and effectively organize and visualize data, providing valuable insights.
+* Created pivot tables to generate readable and effective visuals and charts of the data, contributing to a clearer understanding of dataset trends and patterns.
+
 ## Conclusion:
 The analysis of the hospital length of stay data provided valuable insights into factors influencing the duration of hospitalization. Key findings include:
 - The severity of illness is directly related to the length of stay.
